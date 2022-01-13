@@ -1,0 +1,1 @@
+# dictionarty-app-offline-version
